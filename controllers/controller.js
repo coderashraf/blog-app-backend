@@ -1,7 +1,7 @@
   const blogs=[
     {
       id: 1,
-      title: "Travel 1",
+      title: "Island Sunrise Fishing Boat",
       author: "Rajesh",
       read: "10 min read",
       claps: 300,
@@ -14,8 +14,8 @@
     },
     {
       id: 2,
-      title: "Travel 2",
-      author: "AShraf",
+      title: "The village of Corte",
+      author: "Ashraf",
       read: "10 min read",
       claps: 270,
       category: "Travel",
@@ -27,7 +27,7 @@
     },
     {
       id: 3,
-      title: "Travel 3",
+      title: "City At Night",
       author: "Rajesh",
       read: "10 min read",
       claps: 310,
@@ -41,7 +41,7 @@
 
     {
       id: 4,
-      title: "Bollywood 1",
+      title: "Our first bollywood post",
       author: "Rajesh",
       read: "10 min read",
       claps: 400,
@@ -54,7 +54,7 @@
     },
     {
       id: 5,
-      title: "Bollywood 2",
+      title: "Haathi Mere Saathi",
       author: "Rajesh",
       read: "10 min read",
       claps: 100,
@@ -62,12 +62,14 @@
       image:
         "https://upload.wikimedia.org/wikipedia/en/c/c3/Haathi_Mere_Saathi.jpg",
       date: "January 1 2022",
-      text: ` STORY: Captain Kapil Dev led a team from India, seen as underdogs, to bring home the country’s first-ever World Cup title in the year 1983. Kabir Khan’s ‘83’ encapsulates the journey of this team that taught a nation to believe and to pin its hopes on its cricket players’ by returning home as a set of uniquely gifted world champions.`,
+      text: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac suscipit leo. Aenean in metus vulputate, congue nunc nec, aliquam ex. Pellentesque vitae turpis efficitur, scelerisque quam eu, sagittis arcu. Pellentesque at sagittis tellus. Nam auctor, ipsum tincidunt condimentum mattis, turpis ipsum efficitur libero, auctor ultrices leo massa ut risus. Donec velit justo, finibus eget urna eget, dignissim luctus purus. Suspendisse nec finibus eros. Maecenas lobortis justo ut libero fringilla, vel posuere erat pharetra. Vestibulum ac mi posuere nisi rutrum ultrices. In hac habitasse platea dictumst. In cursus tellus ipsum, quis ultricies sem lacinia vitae. Suspendisse volutpat ut metus vitae lobortis. Aliquam eget ligula sit amet arcu fermentum maximus. Cras vel rhoncus ipsum, vel malesuada mauris. Mauris lorem velit, ultricies eget sem in, dignissim commodo dui. Aliquam condimentum imperdiet pretium.
+
+`,
       tags: ["bollywood", "India", "entertainment"],
     },
     {
       id: 6,
-      title: "Bollywood 3",
+      title: "Man Standing in doorway",
       author: "Rajesh",
       read: "10 min read",
       claps: 900,
@@ -75,12 +77,14 @@
       image:
         "https://images.unsplash.com/photo-1477591546808-36d4a193cbc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
       date: "January 1 2022",
-      text: ` STORY: Captain Kapil Dev led a team from India, seen as underdogs, to bring home the country’s first-ever World Cup title in the year 1983. Kabir Khan’s ‘83’ encapsulates the journey of this team that taught a nation to believe and to pin its hopes on its cricket players’ by returning home as a set of uniquely gifted world champions.`,
+      text: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac suscipit leo. Aenean in metus vulputate, congue nunc nec, aliquam ex. Pellentesque vitae turpis efficitur, scelerisque quam eu, sagittis arcu. Pellentesque at sagittis tellus. Nam auctor, ipsum tincidunt condimentum mattis, turpis ipsum efficitur libero, auctor ultrices leo massa ut risus. Donec velit justo, finibus eget urna eget, dignissim luctus purus. Suspendisse nec finibus eros. Maecenas lobortis justo ut libero fringilla, vel posuere erat pharetra. Vestibulum ac mi posuere nisi rutrum ultrices. In hac habitasse platea dictumst. In cursus tellus ipsum, quis ultricies sem lacinia vitae. Suspendisse volutpat ut metus vitae lobortis. Aliquam eget ligula sit amet arcu fermentum maximus. Cras vel rhoncus ipsum, vel malesuada mauris. Mauris lorem velit, ultricies eget sem in, dignissim commodo dui. Aliquam condimentum imperdiet pretium.
+
+`,
       tags: ["bollywood", "India", "entertainment"],
     },
     {
       id: 7,
-      title: "Bollywood 4",
+      title: "Bharatnatyam",
       author: "Rajesh",
       read: "10 min read",
       claps: 355,
@@ -88,12 +92,14 @@
       image:
         "https://images.unsplash.com/photo-1603909477416-3fc943f3e4d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
       date: "January 1 2022",
-      text: ` STORY: Captain Kapil Dev led a team from India, seen as underdogs, to bring home the country’s first-ever World Cup title in the year 1983. Kabir Khan’s ‘83’ encapsulates the journey of this team that taught a nation to believe and to pin its hopes on its cricket players’ by returning home as a set of uniquely gifted world champions.`,
+      text: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac suscipit leo. Aenean in metus vulputate, congue nunc nec, aliquam ex. Pellentesque vitae turpis efficitur, scelerisque quam eu, sagittis arcu. Pellentesque at sagittis tellus. Nam auctor, ipsum tincidunt condimentum mattis, turpis ipsum efficitur libero, auctor ultrices leo massa ut risus. Donec velit justo, finibus eget urna eget, dignissim luctus purus. Suspendisse nec finibus eros. Maecenas lobortis justo ut libero fringilla, vel posuere erat pharetra. Vestibulum ac mi posuere nisi rutrum ultrices. In hac habitasse platea dictumst. In cursus tellus ipsum, quis ultricies sem lacinia vitae. Suspendisse volutpat ut metus vitae lobortis. Aliquam eget ligula sit amet arcu fermentum maximus. Cras vel rhoncus ipsum, vel malesuada mauris. Mauris lorem velit, ultricies eget sem in, dignissim commodo dui. Aliquam condimentum imperdiet pretium.
+
+`,
       tags: ["bollywood", "India", "entertainment"],
     },
     {
       id: 8,
-      title: "Bollywood 5",
+      title: "Rajasthani red turban",
       author: "Rajesh",
       read: "10 min read",
       claps: 430,
@@ -101,12 +107,14 @@
       image:
         "https://images.unsplash.com/photo-1505921393400-6bdca0e00764?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTJ8MjYwMjEwNHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
       date: "January 1 2022",
-      text: ` STORY: Captain Kapil Dev led a team from India, seen as underdogs, to bring home the country’s first-ever World Cup title in the year 1983. Kabir Khan’s ‘83’ encapsulates the journey of this team that taught a nation to believe and to pin its hopes on its cricket players’ by returning home as a set of uniquely gifted world champions.`,
+      text: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac suscipit leo. Aenean in metus vulputate, congue nunc nec, aliquam ex. Pellentesque vitae turpis efficitur, scelerisque quam eu, sagittis arcu. Pellentesque at sagittis tellus. Nam auctor, ipsum tincidunt condimentum mattis, turpis ipsum efficitur libero, auctor ultrices leo massa ut risus. Donec velit justo, finibus eget urna eget, dignissim luctus purus. Suspendisse nec finibus eros. Maecenas lobortis justo ut libero fringilla, vel posuere erat pharetra. Vestibulum ac mi posuere nisi rutrum ultrices. In hac habitasse platea dictumst. In cursus tellus ipsum, quis ultricies sem lacinia vitae. Suspendisse volutpat ut metus vitae lobortis. Aliquam eget ligula sit amet arcu fermentum maximus. Cras vel rhoncus ipsum, vel malesuada mauris. Mauris lorem velit, ultricies eget sem in, dignissim commodo dui. Aliquam condimentum imperdiet pretium.
+
+`,
       tags: ["bollywood", "India", "entertainment"],
     },
     {
       id: 9,
-      title: "Technology 1",
+      title: "Intro to Hashing",
       author: "Rajesh",
       read: "10 min read",
       claps: 400,
@@ -119,7 +127,7 @@
     },
     {
       id: 10,
-      title: "Technology 2 ",
+      title: "Securing wordpress sites",
       author: "Rajesh",
       read: "10 min read",
       claps: 400,
@@ -132,7 +140,7 @@
     },
     {
       id: 11,
-      title: "Technology 3 ",
+      title: "Handle with Care ",
       author: "Rajesh",
       read: "10 min read",
       claps: 100,
@@ -144,7 +152,7 @@
     },
     {
       id: 12,
-      title: "Technology 4 ",
+      title: "Observatory",
       author: "Rajesh",
       read: "10 min read",
       claps: 100,
@@ -157,7 +165,7 @@
     },
     {
       id: 13,
-      title: "Technology 5 ",
+      title: "Virtual Reality ",
       author: "Rajesh",
       read: "10 min read",
       claps: 100,
@@ -170,7 +178,7 @@
     },
     {
       id: 14,
-      title: "Technology 6 ",
+      title: "Social Channels",
       author: "Rajesh",
       read: "10 min read",
       claps: 690,
@@ -183,7 +191,7 @@
     },
     {
       id: 15,
-      title: "Hollywood 1",
+      title: "Movie Clapper",
       author: "Rajesh",
       read: "10 min read",
       claps: 700,
@@ -196,7 +204,7 @@
     },
     {
       id: 16,
-      title: "Hollywood 2",
+      title: "Future of Hollywood",
       author: "Rajesh",
       read: "10 min read",
       claps: 300,
@@ -209,7 +217,7 @@
     },
     {
       id: 17,
-      title: "Hollywood 3",
+      title: "Hollywood Los Angeles",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -222,7 +230,7 @@
     },
     {
       id: 18,
-      title: "Hollywood 4",
+      title: "I'm Groot",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -235,7 +243,7 @@
     },
     {
       id: 19,
-      title: "Bollywood 6",
+      title: "Rocking Star:KGF 2",
       author: "Rajesh",
       read: "10 min read",
       claps: 430,
@@ -243,12 +251,14 @@
       image:
         "https://stat1.bollywoodhungama.in/wp-content/uploads/2022/01/K.G.F-%E2%80%93-Chapter-2-480x270.jpg",
       date: "January 1 2022",
-      text: ` STORY: Captain Kapil Dev led a team from India, seen as underdogs, to bring home the country’s first-ever World Cup title in the year 1983. Kabir Khan’s ‘83’ encapsulates the journey of this team that taught a nation to believe and to pin its hopes on its cricket players’ by returning home as a set of uniquely gifted world champions.`,
+      text: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac suscipit leo. Aenean in metus vulputate, congue nunc nec, aliquam ex. Pellentesque vitae turpis efficitur, scelerisque quam eu, sagittis arcu. Pellentesque at sagittis tellus. Nam auctor, ipsum tincidunt condimentum mattis, turpis ipsum efficitur libero, auctor ultrices leo massa ut risus. Donec velit justo, finibus eget urna eget, dignissim luctus purus. Suspendisse nec finibus eros. Maecenas lobortis justo ut libero fringilla, vel posuere erat pharetra. Vestibulum ac mi posuere nisi rutrum ultrices. In hac habitasse platea dictumst. In cursus tellus ipsum, quis ultricies sem lacinia vitae. Suspendisse volutpat ut metus vitae lobortis. Aliquam eget ligula sit amet arcu fermentum maximus. Cras vel rhoncus ipsum, vel malesuada mauris. Mauris lorem velit, ultricies eget sem in, dignissim commodo dui. Aliquam condimentum imperdiet pretium.
+
+`,
       tags: ["bollywood", "India", "entertainment"],
     },
     {
       id: 20,
-      title: "Bollywood 7",
+      title: "Raja Babu",
       author: "Rajesh",
       read: "10 min read",
       claps: 430,
@@ -256,12 +266,14 @@
       image:
         "https://www.filmcompanion.in/wp-content/uploads/2020/06/film-companion-govinda-Lead-image-2.jpg",
       date: "January 1 2022",
-      text: ` STORY: Captain Kapil Dev led a team from India, seen as underdogs, to bring home the country’s first-ever World Cup title in the year 1983. Kabir Khan’s ‘83’ encapsulates the journey of this team that taught a nation to believe and to pin its hopes on its cricket players’ by returning home as a set of uniquely gifted world champions.`,
+      text: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac suscipit leo. Aenean in metus vulputate, congue nunc nec, aliquam ex. Pellentesque vitae turpis efficitur, scelerisque quam eu, sagittis arcu. Pellentesque at sagittis tellus. Nam auctor, ipsum tincidunt condimentum mattis, turpis ipsum efficitur libero, auctor ultrices leo massa ut risus. Donec velit justo, finibus eget urna eget, dignissim luctus purus. Suspendisse nec finibus eros. Maecenas lobortis justo ut libero fringilla, vel posuere erat pharetra. Vestibulum ac mi posuere nisi rutrum ultrices. In hac habitasse platea dictumst. In cursus tellus ipsum, quis ultricies sem lacinia vitae. Suspendisse volutpat ut metus vitae lobortis. Aliquam eget ligula sit amet arcu fermentum maximus. Cras vel rhoncus ipsum, vel malesuada mauris. Mauris lorem velit, ultricies eget sem in, dignissim commodo dui. Aliquam condimentum imperdiet pretium.
+
+      `,
       tags: ["bollywood", "India", "entertainment"],
     },
     {
       id: 21,
-      title: "Bollywood 8",
+      title: "Karan Arjun",
       author: "Rajesh",
       read: "10 min read",
       claps: 430,
@@ -269,12 +281,14 @@
       image:
         "https://media.gqindia.com/wp-content/uploads/2020/05/Best-%E2%80%9890s-Bollywood-movies-10-stars-reveal-their-favourite-movies-from-the-decade-stream-them-on-Netflix-Amazon-Prime-Video-SonyLiv.jpg",
       date: "January 1 2022",
-      text: ` STORY: Captain Kapil Dev led a team from India, seen as underdogs, to bring home the country’s first-ever World Cup title in the year 1983. Kabir Khan’s ‘83’ encapsulates the journey of this team that taught a nation to believe and to pin its hopes on its cricket players’ by returning home as a set of uniquely gifted world champions.`,
+      text: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac suscipit leo. Aenean in metus vulputate, congue nunc nec, aliquam ex. Pellentesque vitae turpis efficitur, scelerisque quam eu, sagittis arcu. Pellentesque at sagittis tellus. Nam auctor, ipsum tincidunt condimentum mattis, turpis ipsum efficitur libero, auctor ultrices leo massa ut risus. Donec velit justo, finibus eget urna eget, dignissim luctus purus. Suspendisse nec finibus eros. Maecenas lobortis justo ut libero fringilla, vel posuere erat pharetra. Vestibulum ac mi posuere nisi rutrum ultrices. In hac habitasse platea dictumst. In cursus tellus ipsum, quis ultricies sem lacinia vitae. Suspendisse volutpat ut metus vitae lobortis. Aliquam eget ligula sit amet arcu fermentum maximus. Cras vel rhoncus ipsum, vel malesuada mauris. Mauris lorem velit, ultricies eget sem in, dignissim commodo dui. Aliquam condimentum imperdiet pretium.
+
+`,
       tags: ["bollywood", "India", "entertainment"],
     },
     {
       id: 22,
-      title: "Technology 7 ",
+      title: "Quantum Computing",
       author: "Rajesh",
       read: "10 min read",
       claps: 690,
@@ -287,7 +301,7 @@
     },
     {
       id: 23,
-      title: "Technology 8 ",
+      title: "Listening to an IPhone with AM Radio",
       author: "Rajesh",
       read: "10 min read",
       claps: 690,
@@ -300,7 +314,7 @@
     },
     {
       id: 24,
-      title: "Hollywood 5",
+      title: "Mjolnir:Thor's Hammer",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -313,7 +327,7 @@
     },
     {
       id: 25,
-      title: "Hollywood 6",
+      title: "Deadpool",
       author: "Rajesh",
       read: "10 min read",
       claps: 1200,
@@ -326,7 +340,7 @@
     },
     {
       id: 26,
-      title: "Hollywood 7",
+      title: "Avengers Assemble",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -339,7 +353,7 @@
     },
     {
       id: 27,
-      title: "Fitness 1",
+      title: "Barbell Benefits",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -352,7 +366,7 @@
     },
     {
       id: 28,
-      title: "Fitness 2",
+      title: "Organic food-rational or trendy?",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -365,7 +379,7 @@
     },
     {
       id: 29,
-      title: "Fitness 3",
+      title: "Tips to help you get a 6 Pack",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -378,7 +392,7 @@
     },
     {
       id: 30,
-      title: "Fitness 4",
+      title: "Future of sports nutrition",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -391,7 +405,7 @@
     },
     {
       id: 31,
-      title: "Fitness 5",
+      title: "Personal Training in your home gym",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -404,7 +418,7 @@
     },
     {
       id: 32,
-      title: "Fitness 6",
+      title: "Yoga, the secret to better overall health?",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -417,7 +431,7 @@
     },
     {
       id: 33,
-      title: "Fitness 7",
+      title: "Exercise Science",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -430,7 +444,7 @@
     },
     {
       id: 34,
-      title: "Food 1",
+      title: "Introducing Taco",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -443,7 +457,7 @@
     },
     {
       id: 35,
-      title: "Food 2",
+      title: "Pain au chocolat",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -456,7 +470,7 @@
     },
     {
       id: 36,
-      title: "Food 3",
+      title: "Take Away Pasta",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -469,7 +483,7 @@
     },
     {
       id: 37,
-      title: "Food 4",
+      title: "Plating like a professional",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -482,7 +496,7 @@
     },
     {
       id: 38,
-      title: "Food 5",
+      title: "Seafood salad",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -495,7 +509,7 @@
     },
     {
       id: 39,
-      title: "Food 6",
+      title: "Are you getting enough Zinc?",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -508,7 +522,7 @@
     },
     {
       id: 40,
-      title: "Food 7",
+      title: "Secret to amazing food",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -521,7 +535,7 @@
     },
     {
       id: 41,
-      title: "Food 8",
+      title: "Healthy, Sustainable Back-to-School Lunch",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -534,7 +548,7 @@
     },
     {
       id: 42,
-      title: "Fitness 8",
+      title: "Should I run every day?",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
@@ -547,7 +561,7 @@
     },
     {
       id: 43,
-      title: "Hollywood 8",
+      title: "DC Comics",
       author: "Rajesh",
       read: "10 min read",
       claps: 200,
