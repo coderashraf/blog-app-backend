@@ -7,14 +7,7 @@ const blogGet=(req, res) => {
       const blog=[...reqBlog,...extraBlogs]
       res.send(blog)
   }
-  else 
-  if(req.query.category==="technology"){
-    const techLatestBlog = blogs.filter(
-        (blog) => blog.category === "Technology"
-      ).splice(-1);
-      console.log(1);
-    res.send(techLatestBlog)
-  }
+  
 }
 
 module.exports=blogGet;
