@@ -7,7 +7,7 @@ const latestBollywoodGet=require("../controllers/latestBollywood");
 const latestHollywoodGet = require("../controllers/latestHollywood");
 const router = express.Router();
 
-router.get("/blog/",blogController);
+router.get("/latestTechBlog",blogController);
 router.get("/blog/:id",blogController);
 router.get("/category/:category",blogsController);
 router.get("/top-posts",topBlogsController)
